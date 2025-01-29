@@ -3,7 +3,7 @@
 My personal portfolio website showcasing my projects and skills.
 
 ## 🌐 Live Demo
-[View Portfolio](https://BashirSayadi.github.io/portfolio)
+[View Portfolio](https://helpful-froyo-cd3929.netlify.app/)
 
 ## 🛠️ Built With
 - HTML5
