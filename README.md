@@ -25,9 +25,6 @@ My personal portfolio website showcasing my projects and skills.
 - LinkedIn: [Bashir Saidi](https://www.linkedin.com/in/bashir-sayedi)
 - GitHub: [@BashirSayadi](https://github.com/BashirSayadi)
 
-## 📸 Screenshots
-![Portfolio Screenshot](assets/img/portfolio-preview.png)
-
 ## Features
 - 🎨 Responsive Design
 - 📱 Mobile-First Approach
